@@ -22,3 +22,16 @@ captures/
 
 # macOS
 .DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# APK / AAB
+*.apk
+*.aab
+
+# Signing keys
+*.jks
+*.keystore
+
